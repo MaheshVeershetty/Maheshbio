@@ -32,6 +32,9 @@
 ## 💻 HDL
 
 <p align="center">
+<img src="https://img.shields.io/badge/c?style=for-the-badge"/>
+  
+<img src="https://img.shields.io/badge/python?style=for-the-badge"/>
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
