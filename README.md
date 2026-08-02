@@ -33,8 +33,6 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c"/>
-
 <img src="https://img.shields.io/badge/Verilog-red?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge"/>
@@ -64,6 +62,10 @@
 <img src="https://img.shields.io/badge/Real%20Time%20Systems-brown?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Microcontrollers-grey?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
 
 </p>
 
