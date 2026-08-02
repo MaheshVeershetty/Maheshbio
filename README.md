@@ -10,7 +10,7 @@
 
 # 👨‍💻 About Me
 
-🎓 Final-Year Electronics & Communication Engineering Student
+🎓  Electronics & Communication Engineering Graduate
 
 🏆 Passionate about **Digital VLSI**, **RTL Design**, **Functional Verification**, and **Embedded Systems**
 
