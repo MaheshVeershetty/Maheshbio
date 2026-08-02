@@ -1,9 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Mahesh
-
-### 🚀 RTL Design Engineer | Functional Verification | Embedded Systems | Digital VLSI
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mahesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20VLSI%20Engineer%20|%20RTL%20Design%20|%20Verification%20|%20Embedded%20Systems&descAlignY=55"/>
 </div>
 
