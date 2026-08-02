@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=00C4FF&lines=Digital+VLSI+Engineer;RTL+Design+%7C+UVM+Verification;Embedded+Systems+Developer;FPGA+%7C+Raspberry+Pi+%7C+IoT;Always+Learning+Something+New+🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -19,14 +17,6 @@
 🎓 Electronics & Communication Engineering Graduate
 
 💻 Passionate about **Digital VLSI**, **RTL Design**, **Functional Verification**, and **Embedded Systems**
-
-🌱 Currently learning
-
-- RTL Design
-- UVM Verification
-- ASIC Design Flow
-- Static Timing Analysis
-- Embedded Linux
 
 🎯 Career Interests
 
@@ -140,47 +130,6 @@
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
