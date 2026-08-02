@@ -16,14 +16,7 @@
 
 💡 I enjoy building reliable digital hardware, embedded applications, and solving real-world engineering problems.
 
-🌱 **Currently Learning**
 
-- RTL Design
-- UVM Verification
-- AMBA AXI Protocol
-- Static Timing Analysis (STA)
-- ASIC Design Flow
-- Embedded Linux
 
 🎯 **Career Interests**
 
