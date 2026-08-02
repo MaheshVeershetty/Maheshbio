@@ -132,8 +132,6 @@
 
 <img src="https://img.shields.io/badge/ASIC_Design_Flow-darkgreen?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Clock_Domain_Crossing-brown?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Digital_Logic-darkblue?style=for-the-badge"/>
 
 </p>
