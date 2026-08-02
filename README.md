@@ -4,8 +4,6 @@
 
 ### 🚀 RTL Design Engineer | Functional Verification | Embedded Systems | Digital VLSI
 
-<img align="right" alt="VLSI" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 </div>
 
 ---
