@@ -156,6 +156,6 @@
 
 🚀 **Always Learning • Always Building • Always Improving**
 
-<img align="center" width="500" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 </div>
