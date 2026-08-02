@@ -156,6 +156,6 @@
 
 🚀 **Always Learning • Always Building • Always Improving**
 
-<img align="right" width="320" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mahesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RTL%20Design%20|%20Functional%20Verification%20|%20Embedded%20Systems&descAlignY=55"/>
 
 </div>
