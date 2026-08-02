@@ -6,16 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Digital+VLSI+Engineer;RTL+Design+%7C+Functional+Verification;Embedded+Systems+Developer;Verilog+%7C+SystemVerilog+%7C+UVM;FPGA+%7C+Raspberry+Pi+%7C+IoT;Always+Learning+Something+New+🚀" />
 
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
-
-</p>
-
 </div>
 
 ---
