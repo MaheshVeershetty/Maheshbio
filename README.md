@@ -4,8 +4,6 @@
 
 ### 🚀 RTL Design | Functional Verification | Digital VLSI | Embedded Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Digital+VLSI+Engineer;RTL+Design+%7C+Functional+Verification;Embedded+Systems+Developer;Verilog+%7C+SystemVerilog+%7C+UVM;FPGA+%7C+Raspberry+Pi+%7C+IoT;Always+Learning+Something+New+🚀" />
-
 </div>
 
 ---
